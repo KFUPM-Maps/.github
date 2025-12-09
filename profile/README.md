@@ -6,7 +6,7 @@ Find buildings 🏢, plan routes 🚶‍♂️➡️🚶‍♀️, and get info 
 
 Our goal is to help students, faculty, and visitors explore the campus quickly and easily! 🌟
 
-
+Website link: https://kfupmmaps.vercel.app/
 <!--
 
 **Here are some ideas to get you started:**
